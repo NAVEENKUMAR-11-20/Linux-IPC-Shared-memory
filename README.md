@@ -1,8 +1,8 @@
 # Linux-IPC-Shared-memory
 Ex06-Linux IPC-Shared-memory
 ```
-Developed by:MAGESH BOOPATHI.M
-Register number:212224230145
+Developed by: NAVEEN KUMAR P
+Register number:212224240102
 ```
 # AIM:
 To Write a C program that illustrates two processes communicating using shared memory.
